@@ -1,0 +1,7 @@
+#parentContainer {
+  display: grid;
+}
+#childContainer {
+  align-self: center;
+  justify-self: center;
+}

@@ -1,0 +1,10 @@
+#parentContainer {
+  width: 400px;
+  height: 400px;
+  background-color: #f55353;
+}
+#childContainer {
+  width: 100px;
+  height: 100px;
+  background-color: #feb139;
+}
